@@ -1,0 +1,162 @@
+[
+  {
+    "model": "stock.StockList",
+    "pk": 1,
+    "fields": {
+      "ticker": "095570",
+      "ticker_name": "AJ네트웍스"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 2,
+    "fields": {
+      "ticker": "006840",
+      "ticker_name": "AK홀딩스"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 3,
+    "fields": {
+      "ticker": "027410",
+      "ticker_name": "BGF"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 4,
+    "fields": {
+      "ticker": "282330",
+      "ticker_name": "BGF리테일"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 5,
+    "fields": {
+      "ticker": "138930",
+      "ticker_name": "BNK금융지주"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 6,
+    "fields": {
+      "ticker": "001460",
+      "ticker_name": "BYC"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 7,
+    "fields": {
+      "ticker": "001465",
+      "ticker_name": "BYC우"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 8,
+    "fields": {
+      "ticker": "001040",
+      "ticker_name": "CJ"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 9,
+    "fields": {
+      "ticker": "079160",
+      "ticker_name": "CJ CGV"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 10,
+    "fields": {
+      "ticker": "00104K",
+      "ticker_name": "CJ4우(전환)"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 11,
+    "fields": {
+      "ticker": "000120",
+      "ticker_name": "CJ대한통운"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 12,
+    "fields": {
+      "ticker": "011150",
+      "ticker_name": "CJ씨푸드"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 13,
+    "fields": {
+      "ticker": "011155",
+      "ticker_name": "CJ씨푸드1우"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 14,
+    "fields": {
+      "ticker": "001045",
+      "ticker_name": "CJ우"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 15,
+    "fields": {
+      "ticker": "097950",
+      "ticker_name": "CJ제일제당"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 16,
+    "fields": {
+      "ticker": "097955",
+      "ticker_name": "CJ제일제당 우"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 17,
+    "fields": {
+      "ticker": "000480",
+      "ticker_name": "CR홀딩스"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 18,
+    "fields": {
+      "ticker": "000590",
+      "ticker_name": "CS홀딩스"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 19,
+    "fields": {
+      "ticker": "012030",
+      "ticker_name": "DB"
+    }
+  },
+  {
+    "model": "stock.StockList",
+    "pk": 20,
+    "fields": {
+      "ticker": "016610",
+      "ticker_name": "DB금융투자"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 1,
+        "fields": {
+            "user": 62,
+            "depositproduct": 19,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 2,
+        "fields": {
+            "user": 7,
+            "depositproduct": 18,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 3,
+        "fields": {
+            "user": 78,
+            "depositproduct": 31,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 4,
+        "fields": {
+            "user": 89,
+            "depositproduct": 19,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 5,
+        "fields": {
+            "user": 76,
+            "depositproduct": 19,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 6,
+        "fields": {
+            "user": 75,
+            "depositproduct": 18,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 7,
+        "fields": {
+            "user": 83,
+            "depositproduct": 31,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 8,
+        "fields": {
+            "user": 100,
+            "depositproduct": 31,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 9,
+        "fields": {
+            "user": 69,
+            "depositproduct": 19,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 10,
+        "fields": {
+            "user": 89,
+            "depositproduct": 18,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 11,
+        "fields": {
+            "user": 69,
+            "depositproduct": 19,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 12,
+        "fields": {
+            "user": 27,
+            "depositproduct": 18,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 13,
+        "fields": {
+            "user": 100,
+            "depositproduct": 31,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 14,
+        "fields": {
+            "user": 12,
+            "depositproduct": 26,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 15,
+        "fields": {
+            "user": 78,
+            "depositproduct": 31,
+            "rating": 5.0
+        }
+    },
+    {
+        "model": "accounts.LikeProduct",
+        "pk": 16,
+        "fields": {
+            "user": 12,
+            "depositproduct": 26,
+            "rating": 5.0
+        }
+    }
+]

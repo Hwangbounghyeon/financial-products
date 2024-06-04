@@ -1,0 +1,650 @@
+{
+  "USD": {
+    "country": "미국",
+    "currency_name": "US 달러"
+  },
+  "AED": {
+    "country": "아랍에미리트",
+    "currency_name": "디르함"
+  },
+  "AFN": {
+    "country": "아프가니스탄",
+    "currency_name": "아프가니"
+  },
+  "ALL": {
+    "country": "알바니아",
+    "currency_name": "렉"
+  },
+  "AMD": {
+    "country": "아르메니아",
+    "currency_name": "드람"
+  },
+  "ANG": {
+    "country": "네덜란드령 안틸레스",
+    "currency_name": "길더"
+  },
+  "AOA": {
+    "country": "앙골라",
+    "currency_name": "콴자"
+  },
+  "ARS": {
+    "country": "아르헨티나",
+    "currency_name": "페소"
+  },
+  "AUD": {
+    "country": "호주",
+    "currency_name": "호주 달러"
+  },
+  "AWG": {
+    "country": "아루바",
+    "currency_name": "플로린"
+  },
+  "AZN": {
+    "country": "아제르바이잔",
+    "currency_name": "마나트"
+  },
+  "BAM": {
+    "country": "보스니아 헤르체고비나",
+    "currency_name": "마르카"
+  },
+  "BBD": {
+    "country": "바베이도스",
+    "currency_name": "달러"
+  },
+  "BDT": {
+    "country": "방글라데시",
+    "currency_name": "타카"
+  },
+  "BGN": {
+    "country": "불가리아",
+    "currency_name": "레프"
+  },
+  "BHD": {
+    "country": "바레인",
+    "currency_name": "디나르"
+  },
+  "BIF": {
+    "country": "부룬디",
+    "currency_name": "프랑"
+  },
+  "BMD": {
+    "country": "버뮤다",
+    "currency_name": "달러"
+  },
+  "BND": {
+    "country": "브루나이",
+    "currency_name": "달러"
+  },
+  "BOB": {
+    "country": "볼리비아",
+    "currency_name": "볼리비아노"
+  },
+  "BRL": {
+    "country": "브라질",
+    "currency_name": "레알"
+  },
+  "BSD": {
+    "country": "바하마",
+    "currency_name": "달러"
+  },
+  "BTN": {
+    "country": "부탄",
+    "currency_name": "눌트럼"
+  },
+  "BWP": {
+    "country": "보츠와나",
+    "currency_name": "풀라"
+  },
+  "BYN": {
+    "country": "벨라루스",
+    "currency_name": "루블"
+  },
+  "BZD": {
+    "country": "벨리즈",
+    "currency_name": "달러"
+  },
+  "CAD": {
+    "country": "캐나다",
+    "currency_name": "캐나다 달러"
+  },
+  "CDF": {
+    "country": "콩고 민주 공화국",
+    "currency_name": "프랑"
+  },
+  "CHF": {
+    "country": "스위스",
+    "currency_name": "스위스 프랑"
+  },
+  "CLP": {
+    "country": "칠레",
+    "currency_name": "페소"
+  },
+  "CNY": {
+    "country": "중국",
+    "currency_name": "위안"
+  },
+  "COP": {
+    "country": "콜롬비아",
+    "currency_name": "페소"
+  },
+  "CRC": {
+    "country": "코스타리카",
+    "currency_name": "콜론"
+  },
+  "CUP": {
+    "country": "쿠바",
+    "currency_name": "페소"
+  },
+  "CVE": {
+    "country": "카보베르데",
+    "currency_name": "에스쿠도"
+  },
+  "CZK": {
+    "country": "체코",
+    "currency_name": "코루나"
+  },
+  "DJF": {
+    "country": "지부티",
+    "currency_name": "프랑"
+  },
+  "DKK": {
+    "country": "덴마크",
+    "currency_name": "크로네"
+  },
+  "DOP": {
+    "country": "도미니카 공화국",
+    "currency_name": "페소"
+  },
+  "DZD": {
+    "country": "알제리",
+    "currency_name": "디나르"
+  },
+  "EGP": {
+    "country": "이집트",
+    "currency_name": "파운드"
+  },
+  "ERN": {
+    "country": "에리트레아",
+    "currency_name": "나크파"
+  },
+  "ETB": {
+    "country": "에티오피아",
+    "currency_name": "비르"
+  },
+  "EUR": {
+    "country": "유로존",
+    "currency_name": "유로"
+  },
+  "FJD": {
+    "country": "피지",
+    "currency_name": "달러"
+  },
+  "FKP": {
+    "country": "포클랜드 제도",
+    "currency_name": "파운드"
+  },
+  "FOK": {
+    "country": "페로 제도",
+    "currency_name": "크로네"
+  },
+  "GBP": {
+    "country": "영국",
+    "currency_name": "파운드"
+  },
+  "GEL": {
+    "country": "조지아",
+    "currency_name": "라리"
+  },
+  "GGP": {
+    "country": "건지",
+    "currency_name": "파운드"
+  },
+  "GHS": {
+    "country": "가나",
+    "currency_name": "세디"
+  },
+  "GIP": {
+    "country": "지브롤터",
+    "currency_name": "파운드"
+  },
+  "GMD": {
+    "country": "감비아",
+    "currency_name": "달라시"
+  },
+  "GNF": {
+    "country": "기니",
+    "currency_name": "프랑"
+  },
+  "GTQ": {
+    "country": "과테말라",
+    "currency_name": "케찰"
+  },
+  "GYD": {
+    "country": "가이아나",
+    "currency_name": "달러"
+  },
+  "HKD": {
+    "country": "홍콩",
+    "currency_name": "달러"
+  },
+  "HNL": {
+    "country": "온두라스",
+    "currency_name": "렘피라"
+  },
+  "HRK": {
+    "country": "크로아티아",
+    "currency_name": "쿠나"
+  },
+  "HTG": {
+    "country": "아이티",
+    "currency_name": "구르드"
+  },
+  "HUF": {
+    "country": "헝가리",
+    "currency_name": "포린트"
+  },
+  "IDR": {
+    "country": "인도네시아",
+    "currency_name": "루피아"
+  },
+  "ILS": {
+    "country": "이스라엘",
+    "currency_name": "세켈"
+  },
+  "IMP": {
+    "country": "맨 섬",
+    "currency_name": "파운드"
+  },
+  "INR": {
+    "country": "인도",
+    "currency_name": "루피"
+  },
+  "IQD": {
+    "country": "이라크",
+    "currency_name": "디나르"
+  },
+  "IRR": {
+    "country": "이란",
+    "currency_name": "리알"
+  },
+  "ISK": {
+    "country": "아이슬란드",
+    "currency_name": "크로나"
+  },
+  "JEP": {
+    "country": "저지",
+    "currency_name": "파운드"
+  },
+  "JMD": {
+    "country": "자메이카",
+    "currency_name": "달러"
+  },
+  "JOD": {
+    "country": "요르단",
+    "currency_name": "디나르"
+  },
+  "JPY": {
+    "country": "일본",
+    "currency_name": "엔"
+  },
+  "KES": {
+    "country": "케냐",
+    "currency_name": "실링"
+  },
+  "KGS": {
+    "country": "키르기스스탄",
+    "currency_name": "솜"
+  },
+  "KHR": {
+    "country": "캄보디아",
+    "currency_name": "리엘"
+  },
+  "KID": {
+    "country": "키리바시",
+    "currency_name": "달러"
+  },
+  "KMF": {
+    "country": "코모로",
+    "currency_name": "프랑"
+  },
+  "KRW": {
+    "country": "대한민국",
+    "currency_name": "원"
+  },
+  "KWD": {
+    "country": "쿠웨이트",
+    "currency_name": "디나르"
+  },
+  "KYD": {
+    "country": "케이맨 제도",
+    "currency_name": "달러"
+  },
+  "KZT": {
+    "country": "카자흐스탄",
+    "currency_name": "텡게"
+  },
+  "LAK": {
+    "country": "라오스",
+    "currency_name": "킵"
+  },
+  "LBP": {
+    "country": "레바논",
+    "currency_name": "파운드"
+  },
+  "LKR": {
+    "country": "스리랑카",
+    "currency_name": "루피"
+  },
+  "LRD": {
+    "country": "라이베리아",
+    "currency_name": "달러"
+  },
+  "LSL": {
+    "country": "레소토",
+    "currency_name": "로티"
+  },
+  "LYD": {
+    "country": "리비아",
+    "currency_name": "디나르"
+  },
+  "MAD": {
+    "country": "모로코",
+    "currency_name": "디르함"
+  },
+  "MDL": {
+    "country": "몰도바",
+    "currency_name": "레우"
+  },
+  "MGA": {
+    "country": "마다가스카르",
+    "currency_name": "아리아리"
+  },
+  "MKD": {
+    "country": "북마케도니아",
+    "currency_name": "데나르"
+  },
+  "MMK": {
+    "country": "미얀마",
+    "currency_name": "짯"
+  },
+  "MNT": {
+    "country": "몽골",
+    "currency_name": "투그릭"
+  },
+  "MOP": {
+    "country": "마카오",
+    "currency_name": "파타카"
+  },
+  "MRU": {
+    "country": "모리타니",
+    "currency_name": "우기야"
+  },
+  "MUR": {
+    "country": "모리셔스",
+    "currency_name": "루피"
+  },
+  "MVR": {
+    "country": "몰디브",
+    "currency_name": "루피야"
+  },
+  "MWK": {
+    "country": "말라위",
+    "currency_name": "콰차"
+  },
+  "MXN": {
+    "country": "멕시코",
+    "currency_name": "페소"
+  },
+  "MYR": {
+    "country": "말레이시아",
+    "currency_name": "링깃"
+  },
+  "MZN": {
+    "country": "모잠비크",
+    "currency_name": "메티칼"
+  },
+  "NAD": {
+    "country": "나미비아",
+    "currency_name": "달러"
+  },
+  "NGN": {
+    "country": "나이지리아",
+    "currency_name": "나이라"
+  },
+  "NIO": {
+    "country": "니카라과",
+    "currency_name": "코르도바"
+  },
+  "NOK": {
+    "country": "노르웨이",
+    "currency_name": "크로네"
+  },
+  "NPR": {
+    "country": "네팔",
+    "currency_name": "루피"
+  },
+  "NZD": {
+    "country": "뉴질랜드",
+    "currency_name": "달러"
+  },
+  "OMR": {
+    "country": "오만",
+    "currency_name": "리얄"
+  },
+  "PAB": {
+    "country": "파나마",
+    "currency_name": "발보아"
+  },
+  "PEN": {
+    "country": "페루",
+    "currency_name": "솔"
+  },
+  "PGK": {
+    "country": "파푸아뉴기니",
+    "currency_name": "키나"
+  },
+  "PHP": {
+    "country": "필리핀",
+    "currency_name": "페소"
+  },
+  "PKR": {
+    "country": "파키스탄",
+    "currency_name": "루피"
+  },
+  "PLN": {
+    "country": "폴란드",
+    "currency_name": "즈워티"
+  },
+  "PYG": {
+    "country": "파라과이",
+    "currency_name": "과라니"
+  },
+  "QAR": {
+    "country": "카타르",
+    "currency_name": "리얄"
+  },
+  "RON": {
+    "country": "루마니아",
+    "currency_name": "레우"
+  },
+  "RSD": {
+    "country": "세르비아",
+    "currency_name": "디나르"
+  },
+  "RUB": {
+    "country": "러시아",
+    "currency_name": "루블"
+  },
+  "RWF": {
+    "country": "르완다",
+    "currency_name": "프랑"
+  },
+  "SAR": {
+    "country": "사우디아라비아",
+    "currency_name": "리얄"
+  },
+  "SBD": {
+    "country": "솔로몬 제도",
+    "currency_name": "달러"
+  },
+  "SCR": {
+    "country": "세이셸",
+    "currency_name": "루피"
+  },
+  "SDG": {
+    "country": "수단",
+    "currency_name": "파운드"
+  },
+  "SEK": {
+    "country": "스웨덴",
+    "currency_name": "크로나"
+  },
+  "SGD": {
+    "country": "싱가포르",
+    "currency_name": "달러"
+  },
+  "SHP": {
+    "country": "세인트헬레나",
+    "currency_name": "파운드"
+  },
+  "SLE": {
+    "country": "시에라리온",
+    "currency_name": "리온"
+  },
+  "SLL": {
+    "country": "시에라리온",
+    "currency_name": "리온"
+  },
+  "SOS": {
+    "country": "소말리아",
+    "currency_name": "실링"
+  },
+  "SRD": {
+    "country": "수리남",
+    "currency_name": "달러"
+  },
+  "SSP": {
+    "country": "남수단",
+    "currency_name": "파운드"
+  },
+  "STN": {
+    "country": "상투메 프린시페",
+    "currency_name": "도브라"
+  },
+  "SYP": {
+    "country": "시리아",
+    "currency_name": "파운드"
+  },
+  "SZL": {
+    "country": "에스와티니",
+    "currency_name": "릴랑게니"
+  },
+  "THB": {
+    "country": "태국",
+    "currency_name": "바트"
+  },
+  "TJS": {
+    "country": "타지키스탄",
+    "currency_name": "소모니"
+  },
+  "TMT": {
+    "country": "투르크메니스탄",
+    "currency_name": "마나트"
+  },
+  "TND": {
+    "country": "튀니지",
+    "currency_name": "디나르"
+  },
+  "TOP": {
+    "country": "통가",
+    "currency_name": "파앙가"
+  },
+  "TRY": {
+    "country": "터키",
+    "currency_name": "리라"
+  },
+  "TTD": {
+    "country": "트리니다드 토바고",
+    "currency_name": "달러"
+  },
+  "TVD": {
+    "country": "투발루",
+    "currency_name": "달러"
+  },
+  "TWD": {
+    "country": "대만",
+    "currency_name": "달러"
+  },
+  "TZS": {
+    "country": "탄자니아",
+    "currency_name": "실링"
+  },
+  "UAH": {
+    "country": "우크라이나",
+    "currency_name": "흐리브냐"
+  },
+  "UGX": {
+    "country": "우간다",
+    "currency_name": "실링"
+  },
+  "UYU": {
+    "country": "우루과이",
+    "currency_name": "페소"
+  },
+  "UZS": {
+    "country": "우즈베키스탄",
+    "currency_name": "숨"
+  },
+  "VES": {
+    "country": "베네수엘라",
+    "currency_name": "볼리바르"
+  },
+  "VND": {
+    "country": "베트남",
+    "currency_name": "동"
+  },
+  "VUV": {
+    "country": "바누아투",
+    "currency_name": "바투"
+  },
+  "WST": {
+    "country": "사모아",
+    "currency_name": "탈라"
+  },
+  "XAF": {
+    "country": "중앙아프리카 CFA",
+    "currency_name": "프랑"
+  },
+  "XCD": {
+    "country": "동카리브",
+    "currency_name": "달러"
+  },
+  "XDR": {
+    "country": "IMF",
+    "currency_name": "특별인출권"
+  },
+  "XOF": {
+    "country": "서아프리카 CFA",
+    "currency_name": "프랑"
+  },
+  "XPF": {
+    "country": "CFP",
+    "currency_name": "프랑"
+  },
+  "YER": {
+    "country": "예멘",
+    "currency_name": "리알"
+  },
+  "ZAR": {
+    "country": "남아프리카 공화국",
+    "currency_name": "랜드"
+  },
+  "ZMW": {
+    "country": "잠비아",
+    "currency_name": "콰차"
+  },
+  "ZWL": {
+    "country": "짐바브웨",
+    "currency_name": "달러"
+  }
+}

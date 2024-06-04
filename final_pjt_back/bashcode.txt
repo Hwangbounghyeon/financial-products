@@ -1,0 +1,11 @@
+# backend
+python manage.py makemigrations
+python manage.py migrate
+python manage.py loaddata new_user_data.json product_comment_data.json product_data.json product_options_data.json community_data.json comment_data.json new_like_product_data.json stocklist_data.json stock_ohlcv_data.json
+pip install django-environ
+
+#front
+npm i pinia-plugin-persistedstate
+npm i chart.js
+npm install vuetify
+npm install @mdi/font

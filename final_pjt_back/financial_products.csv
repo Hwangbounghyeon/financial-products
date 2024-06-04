@@ -1,0 +1,14 @@
+﻿id,options,type,dcls_month,fin_co_no,fin_prdt_cd,kor_co_nm,fin_prdt_nm,join_way,mtrt_int,spcl_cnd,join_deny,join_member,etc_note,max_limit,dcls_strt_day,dcls_end_day,fin_co_subm_day
+1,"[OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '1'), ('intr_rate', 3.0), ('intr_rate2', 3.0)]), OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '3'), ('intr_rate', 3.5), ('intr_rate2', 3.5)]), OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '6'), ('intr_rate', 3.5), ('intr_rate2', 3.5)]), OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '12'), ('intr_rate', 3.55), ('intr_rate2', 3.55)]), OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '24'), ('intr_rate', 3.0), ('intr_rate2', 3.0)]), OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '36'), ('intr_rate', 3.0), ('intr_rate2', 3.0)])]",예금,202404,0010001,WR0001B,우리은행,WON플러스예금,"인터넷,스마트폰,전화(텔레뱅킹)","만기 후
+- 1개월이내 : 만기시점약정이율×50%
+- 1개월초과 6개월이내: 만기시점약정이율×30%
+- 6개월초과 : 만기시점약정이율×20%
+
+※ 만기시점 약정이율 : 일반정기예금 금리",해당사항 없음,1,실명의 개인,"- 가입기간: 1~36개월
+- 최소가입금액: 1만원 이상
+- 만기일을 일,월 단위로 자유롭게 선택 가능
+- 만기해지 시 신규일 당시 영업점과 인터넷 홈페이지에 고시된 계약기간별 금리 적용",,20240424,,202404240919
+2,"[OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '1'), ('intr_rate', 3.0), ('intr_rate2', 3.2)]), OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '3'), ('intr_rate', 3.4), ('intr_rate2', 3.6)]), OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '6'), ('intr_rate', 3.4), ('intr_rate2', 3.6)]), OrderedDict([('intr_rate_type', 'S'), ('intr_rate_type_nm', '단리'), ('save_trm', '12'), ('intr_rate', 3.4), ('intr_rate2', 3.7)])]",예금,202404,0010002,00320342,한국스탠다드차타드은행,e-그린세이브예금,"인터넷,스마트폰","만기 후 1개월: 약정이율의 50%
+만기 후 1개월 초과 1년 이내: 약정이율의 30%
+만기 후 1년 초과: 약정이율의 10%","1.SC제일은행 최초 거래 신규고객에 대하여 우대 이율을 제공함 (보너스이율0.2%)                     2.SC제일마이백통장에서 출금하여 이 예금을 신규하는경우에 보너스이율을 제공함
+(가입기간:1년제/ 보너스이율:0.1% / 만기해약하는 경우에 한해 보너스이율을 적용함)",1,개인(개인사업자 포함),"디지털채널 전용상품 (인터넷, 모바일뱅킹)",1000000000.0,20240502,99991231,202405021135

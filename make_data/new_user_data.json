@@ -1,0 +1,1602 @@
+[
+    {
+        "model": "accounts.User",
+        "pk": 1,
+        "fields": {
+            "username": "user1",
+            "financial_products": "35,1",
+            "age": 38,
+            "money": 44116309,
+            "salary": 3258925,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 2,
+        "fields": {
+            "username": "user2",
+            "financial_products": "9,11,27",
+            "age": 37,
+            "money": 41097928,
+            "salary": 4843558,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 3,
+        "fields": {
+            "username": "user3",
+            "financial_products": "33,34,31,13,2",
+            "age": 26,
+            "money": 23321862,
+            "salary": 2216592,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 4,
+        "fields": {
+            "username": "user4",
+            "financial_products": "12,30",
+            "age": 30,
+            "money": 97110041,
+            "salary": 8436360,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 5,
+        "fields": {
+            "username": "user5",
+            "financial_products": "13,1",
+            "age": 35,
+            "money": 21589165,
+            "salary": 3223742,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 6,
+        "fields": {
+            "username": "user6",
+            "financial_products": "20,36",
+            "age": 33,
+            "money": 105875434,
+            "salary": 7877960,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 7,
+        "fields": {
+            "username": "user7",
+            "financial_products": "18,14,20",
+            "age": 68,
+            "money": 119268958,
+            "salary": 7760583,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 8,
+        "fields": {
+            "username": "user8",
+            "financial_products": "22,16,24",
+            "age": 29,
+            "money": 170383889,
+            "salary": 7274668,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 9,
+        "fields": {
+            "username": "user9",
+            "financial_products": "2,13,35",
+            "age": 22,
+            "money": 36389717,
+            "salary": 3765537,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 10,
+        "fields": {
+            "username": "user10",
+            "financial_products": "36,15,20,30",
+            "age": 48,
+            "money": 87623346,
+            "salary": 7290020,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 11,
+        "fields": {
+            "username": "user11",
+            "financial_products": "33,13,34,35,32",
+            "age": 36,
+            "money": 53256175,
+            "salary": 3349380,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 12,
+        "fields": {
+            "username": "user12",
+            "financial_products": "6,17,9,26,4",
+            "age": 49,
+            "money": 78024353,
+            "salary": 4710714,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 13,
+        "fields": {
+            "username": "user13",
+            "financial_products": "5,8,11,9,4",
+            "age": 46,
+            "money": 61115580,
+            "salary": 4485113,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 14,
+        "fields": {
+            "username": "user14",
+            "financial_products": "8,11,7,27,10",
+            "age": 21,
+            "money": 63946939,
+            "salary": 3620939,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 15,
+        "fields": {
+            "username": "user15",
+            "financial_products": "15,18,14,19",
+            "age": 52,
+            "money": 116925188,
+            "salary": 8708861,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 16,
+        "fields": {
+            "username": "user16",
+            "financial_products": "19,15,22",
+            "age": 53,
+            "money": 117245212,
+            "salary": 9217469,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 17,
+        "fields": {
+            "username": "user17",
+            "financial_products": "22,20,24,14,18",
+            "age": 64,
+            "money": 76922504,
+            "salary": 12681572,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 18,
+        "fields": {
+            "username": "user18",
+            "financial_products": "24,16,15,19,18",
+            "age": 69,
+            "money": 154272355,
+            "salary": 7425167,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 19,
+        "fields": {
+            "username": "user19",
+            "financial_products": "5,9,7,8,25",
+            "age": 51,
+            "money": 29189524,
+            "salary": 4145405,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 20,
+        "fields": {
+            "username": "user20",
+            "financial_products": "31,32,34",
+            "age": 34,
+            "money": 20553228,
+            "salary": 3755397,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 21,
+        "fields": {
+            "username": "user21",
+            "financial_products": "11,5",
+            "age": 30,
+            "money": 54048682,
+            "salary": 5668881,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 22,
+        "fields": {
+            "username": "user22",
+            "financial_products": "32,1,31",
+            "age": 24,
+            "money": 29032535,
+            "salary": 2931068,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 23,
+        "fields": {
+            "username": "user23",
+            "financial_products": "18,14,19",
+            "age": 28,
+            "money": 78209555,
+            "salary": 11435067,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 24,
+        "fields": {
+            "username": "user24",
+            "financial_products": "9,6,7,8,17",
+            "age": 24,
+            "money": 66473665,
+            "salary": 4533038,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 25,
+        "fields": {
+            "username": "user25",
+            "financial_products": "18,21,14",
+            "age": 49,
+            "money": 80379329,
+            "salary": 8520032,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 26,
+        "fields": {
+            "username": "user26",
+            "financial_products": "15,14,30,12",
+            "age": 46,
+            "money": 172080303,
+            "salary": 12804035,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 27,
+        "fields": {
+            "username": "user27",
+            "financial_products": "21,18",
+            "age": 29,
+            "money": 170614741,
+            "salary": 10734393,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 28,
+        "fields": {
+            "username": "user28",
+            "financial_products": "28,5,7,25,4",
+            "age": 19,
+            "money": 62651022,
+            "salary": 5207709,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 29,
+        "fields": {
+            "username": "user29",
+            "financial_products": "33,1,2,35",
+            "age": 32,
+            "money": 51523457,
+            "salary": 2357850,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 30,
+        "fields": {
+            "username": "user30",
+            "financial_products": "25,17",
+            "age": 28,
+            "money": 60618613,
+            "salary": 4697063,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 31,
+        "fields": {
+            "username": "user31",
+            "financial_products": "2,34,35,33,13",
+            "age": 21,
+            "money": 35060835,
+            "salary": 2797929,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 32,
+        "fields": {
+            "username": "user32",
+            "financial_products": "33,35,2,34",
+            "age": 28,
+            "money": 46403384,
+            "salary": 3848422,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 33,
+        "fields": {
+            "username": "user33",
+            "financial_products": "15,36,12,24",
+            "age": 75,
+            "money": 147208213,
+            "salary": 11991371,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 34,
+        "fields": {
+            "username": "user34",
+            "financial_products": "19,16,18",
+            "age": 35,
+            "money": 151455290,
+            "salary": 12896464,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 35,
+        "fields": {
+            "username": "user35",
+            "financial_products": "31,35,33,13",
+            "age": 30,
+            "money": 22654298,
+            "salary": 3518122,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 36,
+        "fields": {
+            "username": "user36",
+            "financial_products": "21,24,30",
+            "age": 61,
+            "money": 106268890,
+            "salary": 8979216,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 37,
+        "fields": {
+            "username": "user37",
+            "financial_products": "21,30",
+            "age": 33,
+            "money": 118911481,
+            "salary": 10354125,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 38,
+        "fields": {
+            "username": "user38",
+            "financial_products": "27,29,4,25,9",
+            "age": 39,
+            "money": 62221628,
+            "salary": 5110481,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 39,
+        "fields": {
+            "username": "user39",
+            "financial_products": "15,18,20",
+            "age": 64,
+            "money": 142292122,
+            "salary": 12231243,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 40,
+        "fields": {
+            "username": "user40",
+            "financial_products": "22,12,18,21",
+            "age": 63,
+            "money": 76801053,
+            "salary": 8171180,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 41,
+        "fields": {
+            "username": "user41",
+            "financial_products": "34,33,32",
+            "age": 28,
+            "money": 44089883,
+            "salary": 2940767,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 42,
+        "fields": {
+            "username": "user42",
+            "financial_products": "13,31,33",
+            "age": 27,
+            "money": 27852561,
+            "salary": 3103388,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 43,
+        "fields": {
+            "username": "user43",
+            "financial_products": "8,6,10,5,17",
+            "age": 45,
+            "money": 65425004,
+            "salary": 4733223,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 44,
+        "fields": {
+            "username": "user44",
+            "financial_products": "30,22,24",
+            "age": 61,
+            "money": 107649830,
+            "salary": 9924899,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 45,
+        "fields": {
+            "username": "user45",
+            "financial_products": "11,4,17,6,7",
+            "age": 24,
+            "money": 29332213,
+            "salary": 3877417,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 46,
+        "fields": {
+            "username": "user46",
+            "financial_products": "9,27",
+            "age": 25,
+            "money": 73552289,
+            "salary": 3712518,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 47,
+        "fields": {
+            "username": "user47",
+            "financial_products": "10,4",
+            "age": 22,
+            "money": 61888539,
+            "salary": 5718138,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 48,
+        "fields": {
+            "username": "user48",
+            "financial_products": "17,11",
+            "age": 46,
+            "money": 59888902,
+            "salary": 4887618,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 49,
+        "fields": {
+            "username": "user49",
+            "financial_products": "26,9,27,8",
+            "age": 43,
+            "money": 70684144,
+            "salary": 5078273,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 50,
+        "fields": {
+            "username": "user50",
+            "financial_products": "18,16,19,36,22",
+            "age": 63,
+            "money": 83868070,
+            "salary": 10616322,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 51,
+        "fields": {
+            "username": "user51",
+            "financial_products": "18,36,22",
+            "age": 52,
+            "money": 81691034,
+            "salary": 11419966,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 52,
+        "fields": {
+            "username": "user52",
+            "financial_products": "1,34,2,35,33",
+            "age": 39,
+            "money": 29099403,
+            "salary": 3797652,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 53,
+        "fields": {
+            "username": "user53",
+            "financial_products": "32,35,33,2,13",
+            "age": 35,
+            "money": 26312493,
+            "salary": 3670935,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 54,
+        "fields": {
+            "username": "user54",
+            "financial_products": "24,18,12,30,14",
+            "age": 41,
+            "money": 89994659,
+            "salary": 11406070,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 55,
+        "fields": {
+            "username": "user55",
+            "financial_products": "11,6,17,27,10",
+            "age": 36,
+            "money": 28124465,
+            "salary": 5330429,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 56,
+        "fields": {
+            "username": "user56",
+            "financial_products": "14,16,12,18",
+            "age": 25,
+            "money": 178006486,
+            "salary": 7591448,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 57,
+        "fields": {
+            "username": "user57",
+            "financial_products": "33,2,1,34",
+            "age": 33,
+            "money": 53304645,
+            "salary": 3407540,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 58,
+        "fields": {
+            "username": "user58",
+            "financial_products": "35,13",
+            "age": 25,
+            "money": 43825475,
+            "salary": 3285506,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 59,
+        "fields": {
+            "username": "user59",
+            "financial_products": "5,7,25",
+            "age": 26,
+            "money": 58059202,
+            "salary": 5453113,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 60,
+        "fields": {
+            "username": "user60",
+            "financial_products": "32,31,1",
+            "age": 32,
+            "money": 32889476,
+            "salary": 2870999,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 61,
+        "fields": {
+            "username": "user61",
+            "financial_products": "5,27",
+            "age": 28,
+            "money": 42984019,
+            "salary": 5818223,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 62,
+        "fields": {
+            "username": "user62",
+            "financial_products": "20,22,18,21,19",
+            "age": 69,
+            "money": 143352841,
+            "salary": 11976549,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 63,
+        "fields": {
+            "username": "user63",
+            "financial_products": "4,9",
+            "age": 23,
+            "money": 75012202,
+            "salary": 3292163,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 64,
+        "fields": {
+            "username": "user64",
+            "financial_products": "22,16",
+            "age": 56,
+            "money": 63749242,
+            "salary": 7734051,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 65,
+        "fields": {
+            "username": "user65",
+            "financial_products": "16,24,22,14",
+            "age": 54,
+            "money": 156523503,
+            "salary": 10656240,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 66,
+        "fields": {
+            "username": "user66",
+            "financial_products": "33,1",
+            "age": 38,
+            "money": 40084082,
+            "salary": 3681976,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 67,
+        "fields": {
+            "username": "user67",
+            "financial_products": "24,14",
+            "age": 51,
+            "money": 135755862,
+            "salary": 11975079,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 68,
+        "fields": {
+            "username": "user68",
+            "financial_products": "4,8",
+            "age": 43,
+            "money": 80954488,
+            "salary": 4021779,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 69,
+        "fields": {
+            "username": "user69",
+            "financial_products": "12,15,18,19",
+            "age": 58,
+            "money": 170461916,
+            "salary": 10287536,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 70,
+        "fields": {
+            "username": "user70",
+            "financial_products": "6,17",
+            "age": 26,
+            "money": 30745573,
+            "salary": 4052860,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 71,
+        "fields": {
+            "username": "user71",
+            "financial_products": "2,32,34,35,31",
+            "age": 31,
+            "money": 28538246,
+            "salary": 3581135,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 72,
+        "fields": {
+            "username": "user72",
+            "financial_products": "24,16,22,14",
+            "age": 57,
+            "money": 102871090,
+            "salary": 10079699,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 73,
+        "fields": {
+            "username": "user73",
+            "financial_products": "31,35,1,13,33",
+            "age": 27,
+            "money": 30512975,
+            "salary": 3310010,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 74,
+        "fields": {
+            "username": "user74",
+            "financial_products": "2,34,33",
+            "age": 30,
+            "money": 45640140,
+            "salary": 2225881,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 75,
+        "fields": {
+            "username": "user75",
+            "financial_products": "21,15,12,18,14",
+            "age": 55,
+            "money": 86504731,
+            "salary": 10684775,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 76,
+        "fields": {
+            "username": "user76",
+            "financial_products": "22,12,19,18,16",
+            "age": 45,
+            "money": 174117228,
+            "salary": 8383857,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 77,
+        "fields": {
+            "username": "user77",
+            "financial_products": "15,14,36,19",
+            "age": 48,
+            "money": 176213916,
+            "salary": 9694585,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 78,
+        "fields": {
+            "username": "user78",
+            "financial_products": "13,31,33,2",
+            "age": 21,
+            "money": 41058957,
+            "salary": 2328701,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 79,
+        "fields": {
+            "username": "user79",
+            "financial_products": "13,34,2,1,33",
+            "age": 28,
+            "money": 50310520,
+            "salary": 3043636,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 80,
+        "fields": {
+            "username": "user80",
+            "financial_products": "5,9,26,10",
+            "age": 27,
+            "money": 68058761,
+            "salary": 5471131,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 81,
+        "fields": {
+            "username": "user81",
+            "financial_products": "35,1,2,31,34",
+            "age": 24,
+            "money": 50153367,
+            "salary": 3771896,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 82,
+        "fields": {
+            "username": "user82",
+            "financial_products": "16,30,12",
+            "age": 47,
+            "money": 95347406,
+            "salary": 9934828,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 83,
+        "fields": {
+            "username": "user83",
+            "financial_products": "1,31",
+            "age": 37,
+            "money": 19666615,
+            "salary": 3111706,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 84,
+        "fields": {
+            "username": "user84",
+            "financial_products": "19,20,16,15",
+            "age": 61,
+            "money": 110124759,
+            "salary": 8408743,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 85,
+        "fields": {
+            "username": "user85",
+            "financial_products": "28,10,26,7,29",
+            "age": 49,
+            "money": 65076957,
+            "salary": 5312755,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 86,
+        "fields": {
+            "username": "user86",
+            "financial_products": "32,31,34",
+            "age": 35,
+            "money": 20208943,
+            "salary": 3586863,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 87,
+        "fields": {
+            "username": "user87",
+            "financial_products": "14,22,21,36,16",
+            "age": 51,
+            "money": 72400233,
+            "salary": 10915109,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 88,
+        "fields": {
+            "username": "user88",
+            "financial_products": "6,7",
+            "age": 44,
+            "money": 61000437,
+            "salary": 5311319,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 89,
+        "fields": {
+            "username": "user89",
+            "financial_products": "19,18,22,14,21",
+            "age": 75,
+            "money": 62885596,
+            "salary": 12060790,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 90,
+        "fields": {
+            "username": "user90",
+            "financial_products": "15,30,16,36",
+            "age": 50,
+            "money": 139905007,
+            "salary": 9271532,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 91,
+        "fields": {
+            "username": "user91",
+            "financial_products": "1,32",
+            "age": 21,
+            "money": 48838932,
+            "salary": 3482517,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 92,
+        "fields": {
+            "username": "user92",
+            "financial_products": "15,12,36",
+            "age": 54,
+            "money": 151854145,
+            "salary": 7962761,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 93,
+        "fields": {
+            "username": "user93",
+            "financial_products": "36,30,19,16",
+            "age": 73,
+            "money": 92579541,
+            "salary": 8878403,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 94,
+        "fields": {
+            "username": "user94",
+            "financial_products": "29,8,26,28",
+            "age": 30,
+            "money": 80269114,
+            "salary": 4668591,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 95,
+        "fields": {
+            "username": "user95",
+            "financial_products": "36,12,24",
+            "age": 75,
+            "money": 151412888,
+            "salary": 8242239,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 96,
+        "fields": {
+            "username": "user96",
+            "financial_products": "14,36",
+            "age": 73,
+            "money": 94420731,
+            "salary": 10065463,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 97,
+        "fields": {
+            "username": "user97",
+            "financial_products": "31,35,32,33",
+            "age": 28,
+            "money": 27216707,
+            "salary": 2421298,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 98,
+        "fields": {
+            "username": "user98",
+            "financial_products": "19,21,22",
+            "age": 71,
+            "money": 123920650,
+            "salary": 8426143,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 99,
+        "fields": {
+            "username": "user99",
+            "financial_products": "34,35",
+            "age": 27,
+            "money": 40395207,
+            "salary": 3485349,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    },
+    {
+        "model": "accounts.User",
+        "pk": 100,
+        "fields": {
+            "username": "user100",
+            "financial_products": "34,1,32,33,31",
+            "age": 32,
+            "money": 18037981,
+            "salary": 3673254,
+            "password": "1234",
+            "nick_name": null,
+            "is_active": true,
+            "is_staff": false,
+            "is_superuser": false
+        }
+    }
+]

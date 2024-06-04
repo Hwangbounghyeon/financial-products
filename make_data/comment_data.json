@@ -1,0 +1,1101 @@
+[{
+	"model": "community.Comment",
+	"pk": 1,
+	"fields": {
+		"user": 87,
+		"community": 37,
+		"content": "멀티 채널 무관리 관리자",
+		"created_at": "2024-02-10 01:01:37",
+		"updated_at": "2024-02-01 11:56:48",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 2,
+	"fields": {
+		"user": 28,
+		"community": 92,
+		"content": "조절 가능한 분리된 분석",
+		"created_at": "2024-04-21 20:10:41",
+		"updated_at": "2024-01-23 22:55:35",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 3,
+	"fields": {
+		"user": 86,
+		"community": 47,
+		"content": "미래가 보장된 요약 제품",
+		"created_at": "2024-03-24 04:55:29",
+		"updated_at": "2024-03-25 09:33:39",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 4,
+	"fields": {
+		"user": 72,
+		"community": 13,
+		"content": "줄어든 근본적 안내 창구",
+		"created_at": "2024-04-16 07:08:16",
+		"updated_at": "2024-03-05 03:26:39",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 5,
+	"fields": {
+		"user": 48,
+		"community": 3,
+		"content": "비즈니스 중점적 백그라운드 허브",
+		"created_at": "2024-01-26 14:12:07",
+		"updated_at": "2024-03-12 17:01:45",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 6,
+	"fields": {
+		"user": 56,
+		"community": 63,
+		"content": "강력한 클라이언트-서버 프로젝트",
+		"created_at": "2024-03-14 03:47:01",
+		"updated_at": "2024-02-09 03:19:04",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 7,
+	"fields": {
+		"user": 97,
+		"community": 20,
+		"content": "강력한 필수 프로토콜",
+		"created_at": "2024-03-24 10:02:33",
+		"updated_at": "2024-03-11 23:37:50",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 8,
+	"fields": {
+		"user": 31,
+		"community": 54,
+		"content": "효율적인 중립형 인코딩",
+		"created_at": "2024-01-27 10:14:43",
+		"updated_at": "2024-03-30 03:54:45",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 9,
+	"fields": {
+		"user": 29,
+		"community": 6,
+		"content": "비전 있는 로컬 함수",
+		"created_at": "2024-05-11 03:47:25",
+		"updated_at": "2024-02-11 22:00:14",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 10,
+	"fields": {
+		"user": 7,
+		"community": 61,
+		"content": "올바른 사이즈의 4세대 에뮬레이션",
+		"created_at": "2024-05-10 11:41:23",
+		"updated_at": "2024-01-03 21:24:43",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 11,
+	"fields": {
+		"user": 61,
+		"community": 83,
+		"content": "자동화된 근본적 접근",
+		"created_at": "2024-04-28 05:47:29",
+		"updated_at": "2024-03-22 14:21:57",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 12,
+	"fields": {
+		"user": 37,
+		"community": 99,
+		"content": "공개 키 하이브리드 함수",
+		"created_at": "2024-03-12 23:15:41",
+		"updated_at": "2024-04-20 12:04:51",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 13,
+	"fields": {
+		"user": 49,
+		"community": 73,
+		"content": "더 작아진 분석중인 아카이브",
+		"created_at": "2024-03-08 15:44:41",
+		"updated_at": "2024-03-08 17:46:59",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 14,
+	"fields": {
+		"user": 50,
+		"community": 61,
+		"content": "융합된 백그라운드 지원",
+		"created_at": "2024-03-12 21:44:59",
+		"updated_at": "2024-01-24 17:21:42",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 15,
+	"fields": {
+		"user": 74,
+		"community": 11,
+		"content": "융합력있는 다이나믹 GUI",
+		"created_at": "2024-04-24 22:06:44",
+		"updated_at": "2024-05-22 03:45:10",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 16,
+	"fields": {
+		"user": 90,
+		"community": 3,
+		"content": "숙련된 스며든 어플리케이션",
+		"created_at": "2024-04-25 03:54:24",
+		"updated_at": "2024-04-02 03:58:58",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 17,
+	"fields": {
+		"user": 41,
+		"community": 93,
+		"content": "객체 기반의 무관리 데이터베이스",
+		"created_at": "2024-02-04 08:04:56",
+		"updated_at": "2024-05-09 21:43:44",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 18,
+	"fields": {
+		"user": 97,
+		"community": 15,
+		"content": "함수 기반의 4세대 인트라넷",
+		"created_at": "2024-03-16 20:08:32",
+		"updated_at": "2024-04-15 14:08:33",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 19,
+	"fields": {
+		"user": 20,
+		"community": 40,
+		"content": "자가 이용 가능한 인간자원 아카이브",
+		"created_at": "2024-04-09 15:56:00",
+		"updated_at": "2024-02-07 20:05:52",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 20,
+	"fields": {
+		"user": 77,
+		"community": 98,
+		"content": "더 커진 방향 우연성",
+		"created_at": "2024-03-14 11:56:01",
+		"updated_at": "2024-04-23 08:55:32",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 21,
+	"fields": {
+		"user": 100,
+		"community": 97,
+		"content": "멀티 채널 로컬 생산 능력",
+		"created_at": "2024-03-18 01:18:27",
+		"updated_at": "2024-04-22 14:45:41",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 22,
+	"fields": {
+		"user": 6,
+		"community": 99,
+		"content": "복제된 환경 친화적 어플리케이션",
+		"created_at": "2024-01-01 09:35:46",
+		"updated_at": "2024-01-16 09:52:21",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 23,
+	"fields": {
+		"user": 30,
+		"community": 86,
+		"content": "독보적인 인간자원 고객 만족",
+		"created_at": "2024-01-23 16:52:10",
+		"updated_at": "2024-01-15 03:52:25",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 24,
+	"fields": {
+		"user": 61,
+		"community": 65,
+		"content": "최전방 백그라운드 공구",
+		"created_at": "2024-01-09 05:26:00",
+		"updated_at": "2024-01-19 03:36:12",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 25,
+	"fields": {
+		"user": 13,
+		"community": 67,
+		"content": "다용도 무해한 제품",
+		"created_at": "2024-03-11 08:36:47",
+		"updated_at": "2024-03-26 22:42:00",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 26,
+	"fields": {
+		"user": 93,
+		"community": 22,
+		"content": "디지털화된 장거리 아카이브",
+		"created_at": "2024-05-20 16:30:20",
+		"updated_at": "2024-04-12 03:47:38",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 27,
+	"fields": {
+		"user": 75,
+		"community": 94,
+		"content": "더 작아진 환경 친화적 GUI",
+		"created_at": "2024-05-08 14:30:41",
+		"updated_at": "2024-03-15 14:27:46",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 28,
+	"fields": {
+		"user": 39,
+		"community": 51,
+		"content": "변경 가능한 웹 사용 가능 인터페이스",
+		"created_at": "2024-03-17 23:23:29",
+		"updated_at": "2024-04-20 18:53:09",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 29,
+	"fields": {
+		"user": 71,
+		"community": 63,
+		"content": "객체 기반의 무해한 GUI",
+		"created_at": "2024-02-25 22:27:40",
+		"updated_at": "2024-01-25 17:43:20",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 30,
+	"fields": {
+		"user": 58,
+		"community": 29,
+		"content": "리버스 엔지니어링된 밀착 구조체",
+		"created_at": "2024-01-04 01:01:16",
+		"updated_at": "2024-02-20 11:39:28",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 31,
+	"fields": {
+		"user": 37,
+		"community": 73,
+		"content": "더 작아진 비대칭 회로",
+		"created_at": "2024-01-18 11:12:15",
+		"updated_at": "2024-05-06 22:57:29",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 32,
+	"fields": {
+		"user": 61,
+		"community": 41,
+		"content": "복제된 역수 모니터링",
+		"created_at": "2024-01-03 04:14:40",
+		"updated_at": "2024-02-08 09:20:53",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 33,
+	"fields": {
+		"user": 16,
+		"community": 1,
+		"content": "진보적인 객체 지향적 설치과정",
+		"created_at": "2024-02-05 18:39:02",
+		"updated_at": "2024-03-06 13:21:37",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 34,
+	"fields": {
+		"user": 36,
+		"community": 94,
+		"content": "무결점의 24/7 벤치마크",
+		"created_at": "2024-02-19 13:22:43",
+		"updated_at": "2024-01-06 00:47:23",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 35,
+	"fields": {
+		"user": 60,
+		"community": 8,
+		"content": "선택적 다음 세대 정책",
+		"created_at": "2024-03-19 12:07:41",
+		"updated_at": "2024-01-09 07:31:46",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 36,
+	"fields": {
+		"user": 83,
+		"community": 27,
+		"content": "수익에 중점을 둔 24시간 웹 사이트",
+		"created_at": "2024-05-19 07:59:23",
+		"updated_at": "2024-01-09 22:52:53",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 37,
+	"fields": {
+		"user": 86,
+		"community": 74,
+		"content": "무결점의 글로벌 공구",
+		"created_at": "2024-05-11 04:23:55",
+		"updated_at": "2024-02-13 17:58:10",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 38,
+	"fields": {
+		"user": 76,
+		"community": 20,
+		"content": "트리플 버퍼 잘 모듈화된 안내 창구",
+		"created_at": "2024-01-05 17:53:27",
+		"updated_at": "2024-05-20 11:42:28",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 39,
+	"fields": {
+		"user": 40,
+		"community": 57,
+		"content": "사용자 중심의 문맥 기반 시너지",
+		"created_at": "2024-03-30 21:48:23",
+		"updated_at": "2024-03-12 14:38:51",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 40,
+	"fields": {
+		"user": 23,
+		"community": 87,
+		"content": "확대된 문맥 기반 인터페이스",
+		"created_at": "2024-01-10 07:23:52",
+		"updated_at": "2024-02-13 12:48:56",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 41,
+	"fields": {
+		"user": 76,
+		"community": 76,
+		"content": "인체 공학적인 무해한 함수",
+		"created_at": "2024-04-16 15:29:44",
+		"updated_at": "2024-04-29 22:38:46",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 42,
+	"fields": {
+		"user": 32,
+		"community": 72,
+		"content": "품질 중심의 결정 서비스 창구",
+		"created_at": "2024-03-27 00:33:05",
+		"updated_at": "2024-03-04 20:44:35",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 43,
+	"fields": {
+		"user": 78,
+		"community": 55,
+		"content": "공개 키 비동기 펌웨어",
+		"created_at": "2024-01-08 15:34:43",
+		"updated_at": "2024-01-28 02:22:44",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 44,
+	"fields": {
+		"user": 19,
+		"community": 54,
+		"content": "함수 기반의 고단계 도전",
+		"created_at": "2024-02-02 11:13:40",
+		"updated_at": "2024-01-04 12:23:25",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 45,
+	"fields": {
+		"user": 87,
+		"community": 20,
+		"content": "멀티 레이어 멀티 태스킹 전략",
+		"created_at": "2024-05-06 09:36:23",
+		"updated_at": "2024-02-16 19:02:39",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 46,
+	"fields": {
+		"user": 21,
+		"community": 31,
+		"content": "안전한 4세대 어플리케이션",
+		"created_at": "2024-03-04 00:04:16",
+		"updated_at": "2024-01-07 17:52:51",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 47,
+	"fields": {
+		"user": 14,
+		"community": 75,
+		"content": "조절 가능한 무해한 모델",
+		"created_at": "2024-01-27 05:52:41",
+		"updated_at": "2024-02-11 16:35:04",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 48,
+	"fields": {
+		"user": 85,
+		"community": 61,
+		"content": "총 멀티 태스킹 표준",
+		"created_at": "2024-04-04 07:55:28",
+		"updated_at": "2024-03-16 15:09:43",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 49,
+	"fields": {
+		"user": 34,
+		"community": 56,
+		"content": "최전방 해답 기반 안내 창구",
+		"created_at": "2024-01-05 03:45:22",
+		"updated_at": "2024-04-05 06:19:25",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 50,
+	"fields": {
+		"user": 26,
+		"community": 38,
+		"content": "다용도 4세대 아카이브",
+		"created_at": "2024-03-24 16:55:43",
+		"updated_at": "2024-04-26 22:07:51",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 51,
+	"fields": {
+		"user": 68,
+		"community": 64,
+		"content": "낮은 방향 제품",
+		"created_at": "2024-05-05 21:22:59",
+		"updated_at": "2024-01-25 09:04:38",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 52,
+	"fields": {
+		"user": 54,
+		"community": 12,
+		"content": "다중 주파수 웹 사용 가능 그래픽 인터페이스",
+		"created_at": "2024-01-16 23:24:25",
+		"updated_at": "2024-02-18 23:24:48",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 53,
+	"fields": {
+		"user": 93,
+		"community": 6,
+		"content": "수익에 중점을 둔 멀티 태스킹 접근",
+		"created_at": "2024-04-07 22:56:11",
+		"updated_at": "2024-02-16 21:34:45",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 54,
+	"fields": {
+		"user": 84,
+		"community": 79,
+		"content": "가상 선구적 웹 사이트",
+		"created_at": "2024-02-12 06:22:26",
+		"updated_at": "2024-02-01 23:39:49",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 55,
+	"fields": {
+		"user": 58,
+		"community": 45,
+		"content": "함수 기반의 환경 친화적 벤치마크",
+		"created_at": "2024-03-15 12:32:18",
+		"updated_at": "2024-04-15 02:50:41",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 56,
+	"fields": {
+		"user": 25,
+		"community": 1,
+		"content": "품질 중심의 최대화 지원",
+		"created_at": "2024-01-08 07:46:42",
+		"updated_at": "2024-03-05 20:08:25",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 57,
+	"fields": {
+		"user": 10,
+		"community": 15,
+		"content": "함수 기반의 해답 기반 그래픽 인터페이스",
+		"created_at": "2024-02-29 16:16:05",
+		"updated_at": "2024-02-09 06:16:50",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 58,
+	"fields": {
+		"user": 24,
+		"community": 7,
+		"content": "변경 가능한 결정 프레임워크",
+		"created_at": "2024-02-25 16:51:02",
+		"updated_at": "2024-04-02 18:59:32",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 59,
+	"fields": {
+		"user": 33,
+		"community": 29,
+		"content": "안전한 국가적 LAN",
+		"created_at": "2024-01-11 02:05:23",
+		"updated_at": "2024-01-06 22:12:58",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 60,
+	"fields": {
+		"user": 91,
+		"community": 17,
+		"content": "무결점의 선구적 연합",
+		"created_at": "2024-01-22 04:27:23",
+		"updated_at": "2024-01-20 19:30:28",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 61,
+	"fields": {
+		"user": 77,
+		"community": 13,
+		"content": "안정적인 결정 그래픽 인터페이스",
+		"created_at": "2024-02-02 06:08:25",
+		"updated_at": "2024-01-03 20:07:04",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 62,
+	"fields": {
+		"user": 84,
+		"community": 1,
+		"content": "융합력있는 다이나믹 벤치마크",
+		"created_at": "2024-01-21 02:28:50",
+		"updated_at": "2024-01-09 00:21:03",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 63,
+	"fields": {
+		"user": 74,
+		"community": 67,
+		"content": "융합력있는 장거리 암호화",
+		"created_at": "2024-04-21 22:18:15",
+		"updated_at": "2024-02-03 21:32:23",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 64,
+	"fields": {
+		"user": 50,
+		"community": 61,
+		"content": "업그레이드 가능한 3세대 제품",
+		"created_at": "2024-03-17 10:22:35",
+		"updated_at": "2024-04-29 10:37:17",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 65,
+	"fields": {
+		"user": 59,
+		"community": 67,
+		"content": "더 작아진 고도 기반 벤치마크",
+		"created_at": "2024-02-05 04:24:25",
+		"updated_at": "2024-04-09 06:52:48",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 66,
+	"fields": {
+		"user": 49,
+		"community": 82,
+		"content": "리버스 엔지니어링된 3세대 태도",
+		"created_at": "2024-05-05 21:09:44",
+		"updated_at": "2024-05-06 10:08:59",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 67,
+	"fields": {
+		"user": 80,
+		"community": 5,
+		"content": "반동적인 범국가적 엔진",
+		"created_at": "2024-05-15 07:20:29",
+		"updated_at": "2024-03-19 05:35:22",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 68,
+	"fields": {
+		"user": 85,
+		"community": 88,
+		"content": "단체 기반의 다이나믹 예보",
+		"created_at": "2024-02-11 10:00:03",
+		"updated_at": "2024-04-26 21:18:48",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 69,
+	"fields": {
+		"user": 49,
+		"community": 8,
+		"content": "디지털화된 지역적 코어",
+		"created_at": "2024-04-05 09:13:00",
+		"updated_at": "2024-05-18 21:06:17",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 70,
+	"fields": {
+		"user": 95,
+		"community": 97,
+		"content": "프로그래밍 가능한 하이브리드 정의",
+		"created_at": "2024-02-06 11:50:11",
+		"updated_at": "2024-01-01 22:17:17",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 71,
+	"fields": {
+		"user": 86,
+		"community": 96,
+		"content": "적응된 글로벌 어플리케이션",
+		"created_at": "2024-04-27 14:03:36",
+		"updated_at": "2024-03-24 19:50:54",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 72,
+	"fields": {
+		"user": 55,
+		"community": 85,
+		"content": "확장된 휴리스틱 인공지능",
+		"created_at": "2024-04-06 07:59:31",
+		"updated_at": "2024-04-04 19:32:10",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 73,
+	"fields": {
+		"user": 90,
+		"community": 39,
+		"content": "트리플 버퍼 그리드 가능 인공지능",
+		"created_at": "2024-05-05 06:59:10",
+		"updated_at": "2024-04-28 16:24:59",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 74,
+	"fields": {
+		"user": 53,
+		"community": 7,
+		"content": "트리플 버퍼 합성물 정책",
+		"created_at": "2024-03-22 20:17:21",
+		"updated_at": "2024-01-11 22:48:41",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 75,
+	"fields": {
+		"user": 69,
+		"community": 52,
+		"content": "반동적인 다음 세대 미디어 정보",
+		"created_at": "2024-01-19 21:47:42",
+		"updated_at": "2024-02-13 10:37:49",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 76,
+	"fields": {
+		"user": 99,
+		"community": 78,
+		"content": "단체 기반의 분리형 모델",
+		"created_at": "2024-03-29 11:22:59",
+		"updated_at": "2024-04-06 10:24:20",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 77,
+	"fields": {
+		"user": 47,
+		"community": 48,
+		"content": "유기농 무관리 데이터베이스",
+		"created_at": "2024-03-01 03:26:40",
+		"updated_at": "2024-03-06 09:18:30",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 78,
+	"fields": {
+		"user": 93,
+		"community": 38,
+		"content": "융합력있는 정적 인코딩",
+		"created_at": "2024-02-25 06:38:29",
+		"updated_at": "2024-04-29 15:08:33",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 79,
+	"fields": {
+		"user": 42,
+		"community": 89,
+		"content": "크로스 플랫폼 분리형 LAN",
+		"created_at": "2024-04-19 08:43:14",
+		"updated_at": "2024-04-26 18:04:10",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 80,
+	"fields": {
+		"user": 28,
+		"community": 98,
+		"content": "재정렬 다이나믹 솔루션",
+		"created_at": "2024-04-22 04:39:38",
+		"updated_at": "2024-01-19 17:16:42",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 81,
+	"fields": {
+		"user": 91,
+		"community": 36,
+		"content": "원활한 24시간 공구",
+		"created_at": "2024-04-27 20:22:39",
+		"updated_at": "2024-01-21 11:33:19",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 82,
+	"fields": {
+		"user": 54,
+		"community": 41,
+		"content": "공개 키 상황에 맞는 에뮬레이션",
+		"created_at": "2024-02-26 21:33:50",
+		"updated_at": "2024-03-09 17:08:20",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 83,
+	"fields": {
+		"user": 86,
+		"community": 9,
+		"content": "관리된 최대화 함수",
+		"created_at": "2024-05-01 16:02:36",
+		"updated_at": "2024-01-05 06:12:49",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 84,
+	"fields": {
+		"user": 95,
+		"community": 16,
+		"content": "변경 가능한 무관리 계층",
+		"created_at": "2024-04-16 07:01:08",
+		"updated_at": "2024-03-16 03:06:06",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 85,
+	"fields": {
+		"user": 71,
+		"community": 82,
+		"content": "낮은 결정 미들웨어",
+		"created_at": "2024-01-10 07:31:27",
+		"updated_at": "2024-05-04 23:34:00",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 86,
+	"fields": {
+		"user": 84,
+		"community": 5,
+		"content": "공개 키 6세대 보안구역",
+		"created_at": "2024-01-11 06:15:25",
+		"updated_at": "2024-02-08 01:25:49",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 87,
+	"fields": {
+		"user": 4,
+		"community": 40,
+		"content": "가상 방향 분석",
+		"created_at": "2024-03-15 04:32:58",
+		"updated_at": "2024-03-04 16:17:37",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 88,
+	"fields": {
+		"user": 84,
+		"community": 29,
+		"content": "반동적인 확장 LAN",
+		"created_at": "2024-04-19 09:20:11",
+		"updated_at": "2024-02-07 20:24:58",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 89,
+	"fields": {
+		"user": 24,
+		"community": 44,
+		"content": "독보적인 고도 기반 안내 창구",
+		"created_at": "2024-01-04 13:57:47",
+		"updated_at": "2024-03-12 06:12:41",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 90,
+	"fields": {
+		"user": 23,
+		"community": 1,
+		"content": "디지털화된 최적화된 패러다임",
+		"created_at": "2024-03-28 05:32:34",
+		"updated_at": "2024-03-08 15:17:23",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 91,
+	"fields": {
+		"user": 7,
+		"community": 69,
+		"content": "객체 기반의 고단계 LAN",
+		"created_at": "2024-01-10 17:46:35",
+		"updated_at": "2024-04-15 20:55:58",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 92,
+	"fields": {
+		"user": 42,
+		"community": 94,
+		"content": "낮은 상황에 맞는 접근",
+		"created_at": "2024-04-23 19:22:10",
+		"updated_at": "2024-01-31 08:19:41",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 93,
+	"fields": {
+		"user": 28,
+		"community": 91,
+		"content": "더 작아진 지역적 인코딩",
+		"created_at": "2024-03-03 19:27:07",
+		"updated_at": "2024-04-16 12:26:08",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 94,
+	"fields": {
+		"user": 70,
+		"community": 82,
+		"content": "안정적인 휴리스틱 솔루션",
+		"created_at": "2024-03-08 07:36:58",
+		"updated_at": "2024-03-21 01:48:14",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 95,
+	"fields": {
+		"user": 65,
+		"community": 49,
+		"content": "재정렬 정적 암호화",
+		"created_at": "2024-03-16 15:47:47",
+		"updated_at": "2024-05-11 16:25:52",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 96,
+	"fields": {
+		"user": 96,
+		"community": 58,
+		"content": "함수 기반의 근본적 융합",
+		"created_at": "2024-03-09 17:57:16",
+		"updated_at": "2024-03-11 21:59:35",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 97,
+	"fields": {
+		"user": 86,
+		"community": 91,
+		"content": "강화된 3세대 아키텍쳐",
+		"created_at": "2024-02-12 09:13:23",
+		"updated_at": "2024-02-15 00:50:14",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 98,
+	"fields": {
+		"user": 65,
+		"community": 86,
+		"content": "크로스 플랫폼 합성물 미들웨어",
+		"created_at": "2024-04-25 08:03:34",
+		"updated_at": "2024-04-05 13:38:36",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 99,
+	"fields": {
+		"user": 15,
+		"community": 74,
+		"content": "안전한 잘 모듈화된 엑스트라넷",
+		"created_at": "2024-03-19 06:15:00",
+		"updated_at": "2024-05-22 10:48:59",
+		"like": 0
+	}
+},{
+	"model": "community.Comment",
+	"pk": 100,
+	"fields": {
+		"user": 25,
+		"community": 37,
+		"content": "업그레이드 가능한 하이브리드 시너지",
+		"created_at": "2024-01-14 14:24:22",
+		"updated_at": "2024-05-17 01:44:53",
+		"like": 0
+	}
+}]
